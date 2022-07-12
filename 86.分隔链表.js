@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode.cn id=2 lang=javascript
+ * @lc app=leetcode.cn id=86 lang=javascript
  *
- * [2] 两数相加
+ * [86] 分隔链表
  */
 
 // @lc code=start
@@ -13,15 +13,12 @@
  * }
  */
 /**
- * @param {ListNode} l1
- * @param {ListNode} l2
+ * @param {ListNode} head
+ * @param {number} x
  * @return {ListNode}
  */
-var addTwoNumbers = function(l1, l2) {
-  let newList;
-  let current = l1
-
-
+var partition = function(head, x) {
+  
 };
 // @lc code=end
 
